@@ -1,0 +1,28 @@
+header h1 {
+    font-size: 3.5vw;
+    color: whitesmoke;
+    background-color: rgb(50, 50, 50);
+    text-align: center;
+    justify-content: center;
+    min-height: 5vw;
+}
+
+.search {
+    min-width: 2vw;
+    min-height: 2vw;
+    margin: 1vw 2vw;
+    background-color: rgb(37, 101, 219);
+}
+
+.fa-search {
+    color: whitesmoke;
+}
+
+.main {
+    min-height: 25vw;
+}
+
+.weather-card {
+    background-color: rgb(37, 101, 219);
+    color: whitesmoke;
+}
